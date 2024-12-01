@@ -40,7 +40,6 @@
         </head>
         <body>
             <u><h1>INTERNSHIP</h1></u>
-        
             <h2>DATA ANALYST INTERNSHIP</h2>
             <ul>
                 <li>
@@ -62,7 +61,6 @@
                     <p>As part of the Machine Learning internship, I worked on predicting laptop prices based on various features such as brand, screen size, processor type, and memory. Using Python, I applied regression techniques to build and evaluate models, aiming to predict prices accurately. I also presented insights regarding price distribution and the impact of different features on laptop pricing.</p>
                 </li>
             </ul>
-        
             <h2>MACHINE LEARNING INTERNSHIP</h2>
             <ul>
                 <li>
